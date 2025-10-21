@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Título de la aplicación
-st.title('Calculadora de Índice de Masa Corporal (IMC)')
+st.title('💪 Calculadora de Índice de Masa Corporal (IMC)')
 
 # Encabezado
 st.header('Bienvenido/a a la calculadora de IMC')
